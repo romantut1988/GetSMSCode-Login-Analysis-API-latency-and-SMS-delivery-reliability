@@ -1,4 +1,4 @@
-# [GetSMSCode-Login-Analysis-API-latency-and-SMS-delivery-reliability](https://sms-man.com/?ref=romantut)# sms-activate review
+# [GetSMSCode-Login-Analysis-API-latency-and-SMS-delivery-reliability](https://sms-man.com/?ref=romantut)
 
 ## 1. Intro – sms-activate review
 
